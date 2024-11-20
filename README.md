@@ -18,7 +18,7 @@ Objective:
 ### Daily Challenge Points:
 
 - Submitting a correct solution before the deadline grants full points.
-- Late submissions may earn partial points (optional).
+- Late submissions may earn partial points.
 - The mini-hackathon on 25th November will have its own point weightage for two problems.
 
 ### Points Distribuation
@@ -29,4 +29,4 @@ Objective:
 ## Top Performers:
 
 - The leaderboard will highlight participant's cumulative scores.
-- Top 5 participants who demonstrate consistency and problem-solving skills will win recognition or prizes (optional).
+- Top 5 participants who demonstrate consistency and problem-solving skills will win recognition or prizes.
