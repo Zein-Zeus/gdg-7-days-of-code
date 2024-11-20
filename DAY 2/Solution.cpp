@@ -12,6 +12,7 @@ int main() {
         for(int j = 0; j<i*2-1; j++){
             cout << "*";
         }
+        //Optional
         for(int j = 0; j<n-i; j++){
             cout << " ";
         }
@@ -20,3 +21,12 @@ int main() {
 
     return 0;
 }
+
+//Input: 4
+//Output: 
+//    *   
+//   ***  
+//  ***** 
+// *******
+
+//Complexity: O(n^2)
