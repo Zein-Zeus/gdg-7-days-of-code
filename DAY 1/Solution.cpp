@@ -8,3 +8,8 @@ int main() {
 
     return 0;
 }
+
+//Input: hello
+//Output: hello hello
+
+//Complexity: O(1)
