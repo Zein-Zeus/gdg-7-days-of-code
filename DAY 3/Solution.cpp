@@ -26,3 +26,14 @@ int main() {
 
     return 0;
 }
+
+//Input: 5 10
+//Output: 
+// Foo
+// Baz
+// Bar
+// Baz
+// Baz
+// Foo
+
+//Complexity: O(n)
